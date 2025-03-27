@@ -2,6 +2,7 @@
 
 include:acer
 include:adobe
+include:agilebits
 include:alibabacloud
 include:amazon
 include:amd
@@ -39,6 +40,7 @@ include:ibm
 include:ibkr
 include:inshot
 include:intel
+include:ixsystems
 include:kakao
 include:lg
 include:logitech
